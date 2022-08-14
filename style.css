@@ -52,3 +52,19 @@
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
 }
+
+
+
+
+
+
+/* style page login */
+
+
+#form2{
+  display: none;
+}
+
+div.alert{
+  display: none;
+}
